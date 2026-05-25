@@ -1,6 +1,6 @@
 # Salut ! 👋 Je suis Laura Le Luet
 
-**Développeuse Web Junior ⚡ Profil Digital 360°**
+**Développeuse Web Junior | Profil Digital 360°**
 
 Actuellement à la recherche d'une **alternance de 12 mois**, je construis, lance et fais vivre des projets web avec la rigueur du luxe et la vision d'une entrepreneuse. 
 
