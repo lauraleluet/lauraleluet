@@ -17,14 +17,14 @@ Actuellement à la recherche d'une **alternance de 12 mois**, je construis, lanc
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
-### 🚀 Ce que je fais
+### Ce que je fais
 - 💻 **Développement web** : Création sur-mesure (Tailwind, GSAP) et intégration CMS (WordPress, Shopify).
 - 🎨 **Webdesign & Vidéo** : Création d'identités visuelles, maquettage (Figma, Canva) et montage (DaVinci Resolve).
 - 📱 **Communication Digitale** : Stratégie réseaux sociaux, SEO et création de contenu.
 
 ---
 
-### 📫 Discutons de votre prochain projet !
+### Discutons de votre prochain projet !
 - 💼 **Mon Portfolio :** [lauraleluet.fr](https://lauraleluet.fr)
 - 🟦 **LinkedIn :** [Consulter mon profil](https://www.linkedin.com/in/laura-le-luet-3752321b1/)
 - ✉️ **Email :** lauraleluet@gmail.com
